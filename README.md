@@ -1,5 +1,5 @@
 
-![Title that says Core Four](https://github.com/hungrybellie/CoreFour/assets/63426032/bb3b54e2-991b-48fe-a7fa-3ab0a51486a3)
+<img width="261" alt="Screenshot 2024-02-24 at 9 33 10 PM" src="https://github.com/hungrybellie/CoreFour/assets/63426032/bbba89d0-a6b5-4473-979c-5980a33d9a97">
 
 # CoreFour
 
