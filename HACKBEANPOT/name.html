@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Inconsolata:wght@200..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Roboto&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Core Four</title>
+</head>
+<body>
+
+    <button id="home" class="home"></button>
+    <script type="text/javascript">
+        document.getElementById("home").onclick = function () {
+            location.href = "home.html";
+        };
+    </script>
+
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <div class="headingCategories">
+        <img class="headingimg" src="darkline.png" alt="">
+        <br>
+        <br>
+        <br>
+        <span class="text">What's your name?</span>
+        <br>
+        <br>
+        <br>
+        <input class="textInput" type="text">
+        <br>
+        <br><br><br>
+         <button id="next" class="next">Next</button>
+        
+    </div>
+
+    <script type="text/javascript">
+        document.getElementById("next").onclick = function () {
+            location.href = "categories.html";
+        };
+    </script>
+
+</body>
+</html>
