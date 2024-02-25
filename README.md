@@ -1,4 +1,5 @@
-![Title that says Core Four](https://github.com/hungrybellie/CoreFour/assets/63426032/d2b82164-c006-449b-a227-bcd8762edd30)
+
+![Title that says Core Four](https://github.com/hungrybellie/CoreFour/assets/63426032/bb3b54e2-991b-48fe-a7fa-3ab0a51486a3)
 
 # CoreFour
 
